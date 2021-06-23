@@ -11,6 +11,7 @@ Fixes:
 		Created a query to obtain the number of enrollments from the student Id using _context
 		if the number of results from the query > 2 throw exception
 		Created in the EnrollmentCountRule class
+		
 	-Unable to add endpoint that restrict enrollment if the professor given does not teach the course given
 		Current issue: When querying the coureProfessor information, only the first Course added is obtained
 			ex1: Dr. James -- Course 1, 2, and 3 are added to the CourseProfessors, however when queried only course id 1
