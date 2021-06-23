@@ -12,7 +12,7 @@ Fixes:
 		if the number of results from the query > 2 throw exception
 		Created in the EnrollmentCountRule class
 		
-	-Unable to add endpoint that restrict enrollment if the professor given does not teach the course given
+	-Unable to add endpoint that restricts enrollment if the professor given does not teach the course given
 		Current issue: When querying the coureProfessor information, only the first Course added is obtained
 			ex1: Dr. James -- Course 1, 2, and 3 are added to the CourseProfessors, however when queried only course id 1
 			will be the result of the query.
