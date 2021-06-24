@@ -1,0 +1,9 @@
+C:\Users\g_mos\Source\Repos\Interview\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\g_mos\Source\Repos\Interview\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\g_mos\Source\Repos\Interview\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\g_mos\Source\Repos\Interview\Data\obj\Debug\netstandard2.0\Data.pdb
